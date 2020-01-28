@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Rowan County Suitability](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gremlin.jpg?raw=true"/>
 
 ---
 [Gremlin Sightings in Baltimore](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images/gremlin.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
