@@ -9,7 +9,7 @@
 
 ---
 [Gremlin Sightings in Baltimore](/pdf/sample_presentation.pdf)
-<img src="images/images/gremlin.jpg?raw=true"/>
+<img src="images/gremlin.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
