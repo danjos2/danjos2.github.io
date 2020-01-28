@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Rowan County Suitability](/sample_page)
-<img src="images/gremlin.jpg?raw=true"/>
+<img src="images/suit2.jpg?raw=true"/>
 
 ---
 [Gremlin Sightings in Baltimore](/pdf/sample_presentation.pdf)
