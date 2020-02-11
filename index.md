@@ -3,12 +3,12 @@
 
 ## Portfolio
 
-[Rowan County Suitability](/expl)
+[Rowan County Suitability](/pdf/gremlin)
 This shows the suitability score of 7 farms in Rowan county
 <img src="images/suit2.jpg?raw=true"/>
 
 ---
-[Gremlin Sightings in Baltimore](/pdf/sample_presentation.pdf)
+[Gremlin Sightings in Baltimore](pdf/gremlin)
 This map focuses on gremlin sightings in Baltimore
 <img src="images/gremlin.jpg?raw=true"/>
 
