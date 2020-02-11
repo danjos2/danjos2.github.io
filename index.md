@@ -2,17 +2,20 @@
 
 ---
 
-### Category Name 1 
+## Portfolio
 
 [Rowan County Suitability](/sample_page)
+This shows the suitability score of 7 farms in Rowan county
 <img src="images/suit2.jpg?raw=true"/>
 
 ---
 [Gremlin Sightings in Baltimore](/pdf/sample_presentation.pdf)
+This map focuses on gremlin sightings in Baltimore
 <img src="images/gremlin.jpg?raw=true"/>
 
 ---
 [Population Density](http://example.com/)
+This map shows population density of the U.S. and Maryland
 <img src="images/population density.jpg?raw=true"/>
 
 ---
