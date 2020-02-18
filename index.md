@@ -21,7 +21,8 @@ This map shows population density of the U.S. and Maryland
 
 [Alaska](danjos2.github.io/webmap)
 This map shows population density of the U.S. and Maryland
-[<img src="images/population density.jpg?raw=true"/>](pdf/gremlin)
+[<img src="images/alaska.jpg?raw=true"/>](pdf/gremlin)
+
 
 ---
 ### Category Name 2
