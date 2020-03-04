@@ -13,9 +13,9 @@ This map focuses on gremlin sightings in Baltimore
 [<img src="images/gremlin.jpg?raw=true"/>](rowan/gremlin.md)
 
 ---
-[Population Density](http://example.com/)
+[Population Density](rowan/population.md)
 This map shows population density of the U.S. and Maryland
-[<img src="images/population density.jpg?raw=true"/>](pdf/gremlin)
+[<img src="images/population density.jpg?raw=true"/>](rowan/population.md)
 
 ---
 
