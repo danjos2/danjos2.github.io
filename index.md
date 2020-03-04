@@ -3,7 +3,7 @@
 
 ## Portfolio
 
-[Rowan County Suitability](/pdf/gremlin)
+[Rowan County Suitability](/expl)
 This shows the suitability score of 7 farms in Rowan county
 [<img src="images/suit2.jpg?raw=true"/>](pdf/gremlin)
 
