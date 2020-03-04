@@ -25,6 +25,12 @@ This is an interactive map that shows airports and lakes in Alaska
 
 
 ---
+
+[Rowan County Suitability](/rowan/index.md)
+This shows the suitability score of 7 farms in Rowan county
+[<img src="images/suit2.jpg?raw=true"/>](/rowan/index.md)
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
