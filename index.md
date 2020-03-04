@@ -8,9 +8,9 @@ This shows the suitability score of 7 farms in Rowan county
 [<img src="images/suit2.jpg?raw=true"/>](/rowan/index.md)
 
 ---
-[Gremlin Sightings in Baltimore](pdf/gremlin)
+[Gremlin Sightings in Baltimore](rowan/gremlin.md)
 This map focuses on gremlin sightings in Baltimore
-[<img src="images/gremlin.jpg?raw=true"/>](pdf/gremlin)
+[<img src="images/gremlin.jpg?raw=true"/>](rowan/gremlin.md)
 
 ---
 [Population Density](http://example.com/)
