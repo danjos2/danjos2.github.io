@@ -5,6 +5,9 @@
 
 [Analysis of High School Graduation Rates](/rowan/poverview.md)
 This shows yadayadayada
+[<img src="Area of Study-page-001.jpg?raw=true"/>](/rowan/poverview.md)
+
+---
 
 [Rowan County Suitability](/rowan/index.md)
 This shows the suitability score of 7 farms in Rowan county
