@@ -3,9 +3,9 @@
 
 ## Portfolio
 
-[Analysis of High School Graduation Rates](/rowan/poverview.md)
+[Analysis of High School Graduation Rates](/rowan/poverview.md) images/AOS2.jpg
 This shows yadayadayada
-[<img src="Area of Study-page-001.jpg?raw=true"/>](/rowan/poverview.md)
+[<img src="images/AOS2.jpg?raw=true"/>](/rowan/poverview.md)
 
 ---
 
