@@ -4,7 +4,7 @@
 ## Portfolio
 
 [Analysis of High School Graduation Rates](/rowan/poverview.md) 
-This shows yadayadayada
+This project focused on how socioeconomic factors influence high school graduation rates.  
 [<img src="images/AOS2.jpg?raw=true"/>](/rowan/poverview.md)
 
 ---
