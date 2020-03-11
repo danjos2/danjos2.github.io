@@ -1,7 +1,7 @@
 
 ---
 
-## Portfolio
+## Project 1
 
 [Analysis of High School Graduation Rates](/rowan/poverview.md) 
 This project focused on how socioeconomic factors influence high school graduation rates.  
@@ -19,6 +19,11 @@ This map focuses on gremlin sightings in Baltimore
 [<img src="images/mhhi2.jpg?raw=true"/>](rowan/mhhi.md)
 
 ---
+
+
+---
+## Portfolio
+
 [Gremlin Sightings in Baltimore](rowan/gremlin.md)
 This map focuses on gremlin sightings in Baltimore
 [<img src="images/gremlin.jpg?raw=true"/>](rowan/gremlin.md)
