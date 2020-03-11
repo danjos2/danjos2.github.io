@@ -9,9 +9,14 @@ This project focused on how socioeconomic factors influence high school graduati
 
 ---
 
-[Rowan County Suitability](/rowan/bad.md) 
+[Bachelor vs grad](/rowan/bad.md) 
 Bach vs grad
 [<img src="images/bad.jpg?raw=true"/>](/rowan/bad.md)
+
+---
+[MHHI](rowan/gremlin.md)
+This map focuses on gremlin sightings in Baltimore
+[<img src="images/MHHI2.jpg?raw=true"/>](rowan/gremlin.md)
 
 ---
 [Gremlin Sightings in Baltimore](rowan/gremlin.md)
