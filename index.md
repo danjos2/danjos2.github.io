@@ -14,9 +14,9 @@ Bach vs grad
 [<img src="images/bad.jpg?raw=true"/>](/rowan/bad.md)
 
 ---
-[MHHI](rowan/gremlin.md)
+[MHHI](rowan/mhhi.md)rowan/
 This map focuses on gremlin sightings in Baltimore
-[<img src="images/mhhi2.jpg?raw=true"/>](rowan/gremlin.md)
+[<img src="images/mhhi2.jpg?raw=true"/>](rowan/mhhi.md)
 
 ---
 [Gremlin Sightings in Baltimore](rowan/gremlin.md)
