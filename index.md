@@ -14,12 +14,14 @@ Bach vs grad
 [<img src="images/bad.jpg?raw=true"/>](/rowan/bad.md)
 
 ---
-[MHHI](rowan/mhhi.md)rowan/
+[MHHI](rowan/mhhi.md)
 This map focuses on gremlin sightings in Baltimore
 [<img src="images/mhhi2.jpg?raw=true"/>](rowan/mhhi.md)
 
 ---
-
+[Mapping in Rstudio](rowan/rstudio)
+This map focuses on gremlin sightings in Baltimore
+[<img src="images/rstudiop1.jpg?raw=true"/>](rowan/mhhi.md)
 
 ---
 ## Portfolio
