@@ -44,7 +44,7 @@ This is an interactive map that shows airports and lakes in Alaska
 
 ---
 
-[Rihanna vs. COVID19 Tweets](twitterweb.md)
+[Rihanna vs. COVID19 Tweets](rih_vs_cov_tweets/index.html)
 
 
 ---
