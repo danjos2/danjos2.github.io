@@ -37,14 +37,14 @@ This map shows population density of the U.S. and Maryland
 
 ---
 
-[Alaska](danjos2.github.io/webmap)
+[Alaska](danjos2.github.io/webmap.md)
 This is an interactive map that shows airports and lakes in Alaska
-[<img src="images/alaska.jpg?raw=true"/>](pdf/gremlin)
+[<img src="images/alaska.jpg?raw=true"/>](danjos2.github.io/webmap.md)
 
 
 ---
 
-[Rihanna vs. COVID19 Tweets]
+[Rihanna vs. COVID19 Tweets](twitterweb.md)
 
 
 ---
