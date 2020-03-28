@@ -12,4 +12,5 @@ A heat map of the rihanna shit goes here
 
 A heat map of the covid shit goes here
 
-heatmap image
+[<img src="images/covidheat.png?raw=true"/>]
+
