@@ -1,11 +1,11 @@
-[Rihanna vs. COVID19 Tweets](/rih_vs_cov_tweets/index.html)
+[Interactive Rihanna vs. COVID19 Tweet Map](/rih_vs_cov_tweets/index.html)
 
 This map shows xyz
 
 [<img src="images/twitterweb.png?raw=true"/>](rih_vs_cov_tweets/index.html)
 
-description
+A heat map of the rihanna shit goes here
 heatmap image
 
-description 
+A heat map of the covid shit goes here
 heatmap image
