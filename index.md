@@ -47,6 +47,7 @@ This is an interactive map that shows airports and lakes in Alaska
 [Rihanna vs. COVID19 Tweets](rih_vs_cov_tweets/index.html)
 This is an interactive map that shows the number of geotagged tweets pertaining to the top trending topics on twitter from
 3/26/20 - 3/27/20.
+
 [<img src="images/twitterweb.png?raw=true"/>](rih_vs_cov_tweets/index.html)
 ---
 
