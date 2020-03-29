@@ -3,9 +3,9 @@
 
 ## Project 1
 
-[Analysis of High School Graduation Rates](/rowan/poverview.md) 
+[Analysis of High School Graduation Rates](project1.md) 
 This project focuses on how different socioeconomic factors influence high school graduation rates. I specifically looked at the percent of people holding a bachelor's degree, household income, unemployment, and families with children in poverty. Montgomery County Public School System was the study area. 
-[<img src="images/AOS2.jpg?raw=true"/>](/rowan/poverview.md)
+[<img src="images/AOS2.jpg?raw=true"/>](project1.md)
 
 ---
 
