@@ -21,3 +21,6 @@ The data was obtained from the Maryland American Community Survey. I followed th
 [Mapping in Rstudio](rowan/rstudio)
 The second half of the project was done in Rstudio. Tmap was the main package used for visulization. Tm_shape was used to display unemployment and poverty. Tm_bubble was used for graduated symbols. Rstudio has limitations to stylizing maps, so exporting the map to pdf and editing it in Adobe Illustrator would clean up the visuals. 
 [<img src="images/rstudiop1.jpg?raw=true"/>](rowan/rstudio)
+
+
+---
