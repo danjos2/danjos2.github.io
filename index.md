@@ -3,9 +3,9 @@
 
 ## Project 1
 
-[Analysis of High School Graduation Rates](project1.md) 
+[Analysis of High School Graduation Rates](mcpss.md)
 This project focuses on how different socioeconomic factors 
-[<img src="images/AOS2.jpg?raw=true"/>](project1.md)
+[<img src="images/AOS2.jpg?raw=true"/>](mcpss.md)
 
 ---
 ## Portfolio
