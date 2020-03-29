@@ -1,3 +1,7 @@
+# Analysis of High School Graduation Rates
+This project focuses on how different socioeconomic factors influence high school graduation rates. I specifically looked at the percent of people holding a bachelor's degree, household income, unemployment, and families with children in poverty. Montgomery County Public School System was the study area.
+
+---
 ### Percent with a Bachelor's Degree vs. Graduation Rate 2018
 The data was obtained from the Maryland American Community Survey. To get the average of all census blocks for each school zone, I had to use the intersect tool then dissolve by school zone. Graduated points were used to symbolize graduation rate. I used viridis and equal interval to symbolize pct with a bachelor degree. 
 [<img src="images/bad.jpg?raw=true"/>]
