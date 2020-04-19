@@ -11,7 +11,7 @@ This project focuses on how different socioeconomic factors
 
 ## Project 2
 
-[Texas COVID-19 as of 4-16-2020]
+[Texas COVID-19 as of 4-16-2020](486_project2.md)
 
 
 ---
