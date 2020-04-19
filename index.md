@@ -12,6 +12,8 @@ This project focuses on how different socioeconomic factors
 ## Project 2
 
 [Texas COVID-19 as of 4-16-2020](486_project2.md)
+Testing testing 123
+[<img src="images/texasimg.png?raw=true"/>](486_project2.md)
 
 
 ---
