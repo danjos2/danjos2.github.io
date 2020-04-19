@@ -1,3 +1,4 @@
 [This is a test](/cortest/nytcorona.html)
 
-images/texasimg.png
+[<img src="images/texasimg.png?raw=true"/>](cortest/nytcorona.html)
+
