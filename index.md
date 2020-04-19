@@ -8,6 +8,14 @@ This project focuses on how different socioeconomic factors
 [<img src="images/AOS2.jpg?raw=true"/>](mcpss.md)
 
 ---
+
+## Project 2
+
+[Texas COVID-19 as of 4-16-2020]
+
+
+---
+
 ## Portfolio
 
 [Gremlin Sightings in Baltimore](rowan/gremlin.md)
