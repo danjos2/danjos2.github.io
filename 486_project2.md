@@ -5,4 +5,4 @@
 
 ## This is an animated gif
 
-[<img src="images/Texas_GIF.gif?raw=true"/>]
+<img src="images/Texas_GIF.gif?raw=true"/>
