@@ -1,6 +1,5 @@
 [This is a test](cortest/subset_rstudio.nb.html)
 
-[cortest/subset_rstudio.nb.html]
 
 [<img src="images/texasimg.png?raw=true"/>](cortest/subset_rstudio.nb.html)
 
