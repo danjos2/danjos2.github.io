@@ -20,7 +20,7 @@ Once the CSV was filtered, I brought it into QGIS and did a table join with the 
 
 ## Outputs
 
-[### Texas COVID-19 Interactive Map](Texas_web/index.html)
+### [Texas COVID-19 Interactive Map](Texas_web/index.html)
 [<img src="images/texasimg.png?raw=true"/>](Texas_web/index.html)
 
 
