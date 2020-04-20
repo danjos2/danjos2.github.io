@@ -7,7 +7,7 @@ I plan on doing an analysis of COVID-19 cases and access to health care faciliti
 ## Data
 The Texas county boundaries shapefile was obtained from the [Texas Department of Transportation website](https://gis-txdot.opendata.arcgis.com/datasets/8b902883539a416780440ef009b3f80f_0) . COVID-19 data was obtained from the New York Times [ongoing repository](https://github.com/nytimes/covid-19-data) of data on coronavirus cases and deaths in the United States. 
 Since it was a raw CSV of all U.S. county-level data, I had to import the NYT data into R to properly filter. You can look at my process in Rstudio [here](cortest/subset_rstudio.nb.html) to see how I subsetted the data to show only Texas counties. 
-
+*COVID-19 Data Updated: 4-16-2020
 
 
 ## Analysis
