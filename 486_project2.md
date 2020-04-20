@@ -2,3 +2,6 @@
 
 [<img src="images/texasimg.png?raw=true"/>](cortest/nytcorona.html)
 
+
+## This is an animated gif
+[<img src="images/texasimg.png?raw=true"/>]
