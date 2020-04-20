@@ -1,6 +1,6 @@
 ## Description
 
-This project focuses on COVID-19 data at the county-level in Texas. More than 3 millions residents in rural communities throughout Texas have little to no access to proper health care facilities. The goal of this project is to show the spatial distribution of hospitals in Texas and how far residents with COVID-19 in rural communities have to travel to get this supportive care. 
+This project focuses on COVID-19 data at the county-level in Texas. An interactive map and a time series heat map GIF was created from my analysis. Data was obtained from the New York Times COVID-19 and all maps were created in QGIS. My final project will combine the interactive map with different plots to make a COVID-19 dashboard for Texas. 
 
 
 
