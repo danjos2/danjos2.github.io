@@ -1,4 +1,4 @@
-[This is a test](cortest/subset_rstudio.nb.html)
+Click [here](cortest/subset_rstudio.nb.html) for Rstudio
 
 
 [<img src="images/texasimg.png?raw=true"/>](cortest/subset_rstudio.nb.html)
