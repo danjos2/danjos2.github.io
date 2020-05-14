@@ -10,7 +10,7 @@ This project focuses on how different socioeconomic factors influence high schoo
 
 ---
 
-## Project 2
+## Final Project
 
 [COVID-19 in Texas](486_project2.md)
 
