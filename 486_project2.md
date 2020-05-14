@@ -26,7 +26,7 @@ Once the CSV was filtered, I brought it into QGIS and did a table join with the 
 
 ### [Texas COVID-19 Dashboard]
 
-<img src="images/final.png?raw=true"/>
+<img src="images/final2.png?raw=true"/>
 
 
 ### COVID-19 Confirmed Cases GIF (2-27 to 4-16)
