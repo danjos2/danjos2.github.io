@@ -1,1 +1,1 @@
-[<img src="images/AOS2.jpg?raw=true"/>]
+[<img src="images/GES 481 Final Presentation (3).pdf?raw=true"/>]
