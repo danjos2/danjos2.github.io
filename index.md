@@ -21,7 +21,7 @@ Taking a look at confirmed cases of COVID-19 at the county level in Texas
 
 ---
 
-## Portfolio
+## Other Work Samples
 
 [Gremlin Sightings in Baltimore](rowan/gremlin.md)
 
@@ -36,27 +36,12 @@ Population density of the United States and Maryland
 
 ---
 
-[Alaska](webmap.md)
-
-An interactive map that shows airports and lakes in Alaska.(Delete me)
-[<img src="images/alaska.jpg?raw=true"/>](webmap.md)
-
-
----
-
 [Rihanna vs. COVID19 Tweets](twitterweb.md)
 
 Comparing the location of geotagged tweets pertaining to Rihanna and COVID19.
 [<img src="images/twitterweb.png?raw=true"/>](twitterweb.md)
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
