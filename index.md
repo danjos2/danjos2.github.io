@@ -26,7 +26,7 @@ Taking a look at confirmed cases of COVID-19 at the county level in Texas
 [Gremlin Sightings in Baltimore](rowan/gremlin.md)
 
 A hypothetical scenario of gremlin sightings in Baltimore
-[<img src="images/gremlin.jpg?raw=true"/>](rowan/gremlin.md)
+[<img src="images/GES 481 Final Presentation (3).pdf?raw=true"/>](rowan/gremlin.md)
 
 ---
 [Population Density](rowan/population.md)
